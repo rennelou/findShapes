@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.4.2)
+project( hexa_recognition )
+find_package( OpenCV REQUIRED )
+add_executable( rehexa main.cpp )
+target_link_libraries( rehexa ${OpenCV_LIBS} )
