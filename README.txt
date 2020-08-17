@@ -1,3 +1,5 @@
+*Abandoned Project. Maybe one day i refact this project*
+
 Trabalho de reconhecimento de poligonos usando a biblioteca opencv em C
 Feito por Rennê da Silva Lou para a materia de Processamento de sinais II no CEFET/RJ
 
